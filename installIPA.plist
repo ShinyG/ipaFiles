@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.lexiang.caipiao</string>
+                <string>com.rtjk.xshl</string>
                 <key>bundle-version</key>
-                <string>4.4.86</string>
+                <string>1.1.16</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>全民智投</string>
+                <string>心水红料</string>
             </dict>
         </dict>
     </array>
