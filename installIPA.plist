@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.9.137:3000/files/ipa/心水红料_1.1.16_2018092502.ipa</string>
+                    <string>http://192.168.9.137:8888/files/20181105093741.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.rtjk.xshl</string>
+                <string>com.lexiang.caipiao</string>
                 <key>bundle-version</key>
-                <string>1.1.16</string>
+                <string>4.4.96</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>心水红料</string>
+                <string>全民智投</string>
             </dict>
         </dict>
     </array>
